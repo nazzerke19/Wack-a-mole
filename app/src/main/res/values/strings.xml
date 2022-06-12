@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Wack-a-mole</string>
+    <string name="app_name">Whack-a-mole</string>
+    <string name="mole_rules">Whack the moles! Tap the most moles within 30 seconds and get the maximum score!</string>
+
 </resources>
